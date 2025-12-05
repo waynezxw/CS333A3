@@ -1,6 +1,9 @@
 # CS333A3
 Visualizationo for global earthquake explor (2011-2016)
 
+# Group Member:
+Xinwei Zhang
+
 ## Project Structure：
 - index.html
 - writeup.pdf
