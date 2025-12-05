@@ -2,12 +2,13 @@
 Visualizationo for global earthquake explor (2011-2016)
 
 ## Project Structure：
-index.html
-js/map.js
-js/histogram.js
-js/timeline.js
-data/world-110m.json
-data/earthquakes_2011_2016_clean.csv
+- index.html
+- writeup.pdf
+- js/map.js
+- js/histogram.js
+- js/timeline.js
+- data/world-110m.json
+- data/earthquakes_2011_2016_clean.csv
 
 ## How to Run the Application:
 open with a local live server (like http://localhost:8000/)
