@@ -15,7 +15,6 @@ Xinwei Zhang
 
 ## How to Run the Application:
 open with a local live server (like http://localhost:8000/)
-then open index.html with the above server: (like http://localhost:8000/index.html)
 
 ## How to Use the Visualization:
 
