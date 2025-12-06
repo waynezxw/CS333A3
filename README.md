@@ -22,7 +22,7 @@ open with a local live server (like http://localhost:8000/)
 
 
 **Timeline:**
-**How to use it:**:
+**How to use it:**
 - Click + drag to select a time interval
 - Map updates to show only events in this date range
 - A date label shows the selected start & end dates
@@ -34,7 +34,7 @@ open with a local live server (like http://localhost:8000/)
 - Map updates instantly to show only earthquakes within that range
 - Click outside the histogram bars of the Magnitude Histogram area→ Clears selection
 
-**Search by Country full name:**:
+**Search by Country full name:**
 **How to use it:**:
 - Enter a full country name (e.g., "Japan", "Chile")
 - Press Enter or click Search
@@ -46,7 +46,7 @@ open with a local live server (like http://localhost:8000/)
 - Reset every filter and shows the origin map.
 
 **Zoom Controls:**
-**How to use it:**:
+**How to use it:**
 - Buttons:
 - Zoom In (+)
 - Zoom Out (-)
